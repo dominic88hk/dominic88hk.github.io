@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@700&family=Patrick+Hand&family=Roboto+Slab&display=swap');
+
+
+/* nav bar */
+.nav-link {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    text-decoration: none;
+    color: grey;
+    opacity: 100%;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.navbar {
+    background-color: transparent;
+}
+
+/* title */
+h1 {
+    font-weight: bold;
+    font-size: 80px;
+    font-family: 'Patrick Hand', cursive;
+    text-align: center;
+}
+
+p {
+    font-size: 35px;
+    font-family: 'Patrick Hand', cursive;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+/* image */
+.avatar-image {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.avatar {
+    border-radius: 50%;
+    width: 30%;
+    height: auto;
+}
+
+
+.social-media {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.social-media a{
+    text-decoration: none;
+    color: rgb(61, 61, 61);
+
+}
+
+i {
+    opacity: 40%;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+hr {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.foot-links {
+    text-align: center;
+    font-family: 'Patrick Hand', cursive;
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.link {
+    text-decoration: none;
+    color: grey;
+    margin: 10px;
+}
+
+/* background */
+body {
+    background-color: rgb(230,231,233);
+    background-image: url('../images/personal_website/bg.jpg');
+    background-size: cover;
+    /* background-attachment: fixed; */
+    /* background-repeat: no-repeat; */
+    /* background-position-y: -115px; */
+
+} 
+
+body {
+    width: 100%;
+}
+
